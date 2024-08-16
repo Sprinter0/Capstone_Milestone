@@ -1,0 +1,186 @@
+body
+{
+    background-color: #a54f4f;
+}
+
+img
+{
+    margin-top: 25px;
+    border-radius: 3%;
+    border-style:solid;
+    border-color: black;
+    margin-left: 25px;
+  
+}
+a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+    line-height: 1.6;
+ }
+
+ footer{
+   margin-left: 1060px;
+ }
+/*The code below is index.html */
+#navtainer
+{
+    background-color: rgba(238, 212, 207, 0.633);
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 10px;
+
+}
+
+.navtxt
+{
+    font-family: Helvetica;
+    color: #071739;
+    font-size: 18px;
+    padding: 4px;
+    margin-right: 20px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: #071739;
+    text-shadow: 1px 1px rgba(254, 255, 255, 0.69);
+ }
+ 
+ .skillstext
+ {
+    display: flex;
+    margin-top: 25px;
+    padding: 25px;
+    margin: 15px;
+    border-radius: 25px;
+    background-color: #191414;
+    color:rgb(153, 219, 157);
+}
+ 
+ 
+ 
+ .navtxt:hover {
+    background-color: rgb(248, 204, 240);
+    opacity: 0.5;
+ }
+ 
+ 
+ 
+
+#navhometext
+{
+    padding: 20px;
+    background-color: rgba(238, 212, 207, 0.633);
+    margin-top: 20px;
+    border-radius: 25px;
+    display:flex;
+    justify-content: space-evenly;
+    border-style: solid;
+  border-color: rgb(92, 44, 44);
+  border-width: 10px;
+    
+}
+.home1{
+    margin-left: 15px;
+    color:rgb(0, 0, 0);
+    text-shadow: 2px 2px beige;
+}
+
+#skills-nav {
+    background-color:#9a4141;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+.skill-item {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #d99898c3;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 5px; /* Rounds the corners of the buttons */
+    
+}
+
+
+/*The code below is index1.html */
+
+.h1txtproj{
+    margin-left: 33px;
+    color:rgb(239, 224, 213);
+    
+    text-shadow: 2px 2px red;
+}
+#projectbar{
+    display:flex;
+    justify-content: space-around;
+
+}
+.projtainer
+{
+    padding:20px;
+    margin-right: 30px;
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgba(238, 212, 207, 0.633);
+    border-width: 10px;
+    color: rgba(255, 255, 255, 0.975);
+    outline-style:solid;
+    outline-color: rgb(232, 223, 223);
+
+}
+
+/*The code below is index2.html */
+
+#baraction{
+    display: flex;
+    background-color: antiquewhite;
+    border-style: solid;
+    border-radius:8px;
+    border-color:black white;
+    padding:10px;
+}
+
+#eductxt
+{
+    margin-left: 25px;
+    margin-right:150px;
+}
+
+/*The code below is for index3.html */
+#socialbar{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+#imagesid{
+    margin-right: 25px;
+}
+.socialclass
+{
+    color:white;
+    line-height: 2.7;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     

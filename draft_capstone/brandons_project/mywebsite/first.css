@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans';
+    background-color: lightblue;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-color: rgb(102, 103, 109);
+    font-size: 60px;
+}
+nav {
+    background-color: lightblue;
+    padding: 5px;
+    display: flex;
+    font-family: 'Lucida Sans';
+    border-style: solid;
+    justify-content: space-around;
+    font-size: 40px;
+    border-color: rgb(102, 103, 109);
+}
+
+#HobbiesIMGS {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+#GeneralDisc {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+p {
+    margin: 50px;
+    font-family: 'Lucida Sans';
+    font-size: larger;
+    border-style: groove;
+    text-align: center;
+    padding: 50px;
+    background-color: lightgrey;
+}
+
+.items:hover {
+    background-color: beige;
+    opacity: 0.5;
+}
+
+a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-line: none;
+    color: black;
+ }
+
+img {
+    width: 500px;
+    height: 400px;
+    padding: 50px;
+    background-color: lightgrey;
+}
+body{
+    background-color: grey;
+}
